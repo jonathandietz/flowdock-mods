@@ -1,12 +1,12 @@
 
 .flow {
   width: 80% !important;
-  margin-left: 20%;
+  margin-left: 20em;
   padding-top: 0 !important;
 }
 
 #tab-bar.desktop {
-  width: 20% !important;
+  width: 20em !important;
   height: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -69,4 +69,3 @@
   background: red !important;
 
 }
-
